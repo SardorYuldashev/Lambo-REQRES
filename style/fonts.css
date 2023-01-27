@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'RB-700';
+    src: url('../fonts/Roboto/RB-700.ttf');
+}
+
+@font-face {
+    font-family: 'R-It';
+    src: url('../fonts/Roboto/R-It.ttf');
+}
+
+@font-face {
+    font-family: 'RR-400';
+    src: url('../fonts/Roboto/RR-400.ttf');
+}
+
+@font-face {
+    font-family: 'WB-700';
+    src: url('../fonts/WorkSans/WB-700.ttf');
+}
+
+@font-face {
+    font-family: 'W-It';
+    src: url('../fonts/WorkSans/W-It.ttf');
+}
+
+@font-face {
+    font-family: 'WR-400';
+    src: url('../fonts/WorkSans/WR-400.ttf');
+}
